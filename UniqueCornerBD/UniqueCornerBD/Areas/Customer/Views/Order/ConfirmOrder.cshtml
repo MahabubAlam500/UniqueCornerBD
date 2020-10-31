@@ -1,0 +1,47 @@
+﻿
+
+
+
+@{ 
+    ViewData["Title"] = "ConfirmOrder";
+}
+
+<div class="jumbotron">
+    <h1 class="text-primary">Congratulation!</h1>
+    
+    <h2 class="text-success"> Your Order Has Been Confirmed.You Will Get Notification Soon</h2>
+</div>
+
+@section Scripts{ 
+
+<script>
+    $(document).ready(function () {
+        $("h1").animate({
+            left: '250px',
+            height: '+=150px',
+            width: '+=150px'
+        });
+        //var h1 = $("h1");
+        //h1.animate({ height: '300px', opacity: '0.5' }, "slow");
+        //h1.animate({ width: '400px', opacity: '0.8' }, "slow");
+        //h1.animate({ height: '400px', opacity: '0.5' }, "slow");
+        //h1.animate({ width: '400px', opacity: '0.8' }, "slow");
+
+            //var h1 = $("h2");
+            //h1.animate({ height: '300px', opacity: '0.5' }, "slow");
+            //h1.animate({ width: '400px', opacity: '0.8' }, "slow");
+            //h1.animate({ height: '400px', opacity: '0.5' }, "slow");
+            //h1.animate({ width: '400px', opacity: '0.8' }, "slow");
+
+
+
+        $("h2").animate({
+            left: '250px',
+            height: '+=150px',
+            width: '+=150px'
+        });
+
+
+    });
+</script>
+}
