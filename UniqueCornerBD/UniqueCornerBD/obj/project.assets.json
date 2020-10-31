@@ -10239,11 +10239,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\md.mahabub alam\\OneDrive\\Desktop\\PROJECT FILE FIRST\\Backup Everything\\BACKUP 10122020\\uniquecorner\\UniqueCornerBD\\UniqueCornerBD\\UniqueCornerBD.csproj",
+      "projectUniqueName": "E:\\Project\\Unique Corner\\UniqueCornerBD\\UniqueCornerBD\\UniqueCornerBD.csproj",
       "projectName": "UniqueCornerBD",
-      "projectPath": "C:\\Users\\md.mahabub alam\\OneDrive\\Desktop\\PROJECT FILE FIRST\\Backup Everything\\BACKUP 10122020\\uniquecorner\\UniqueCornerBD\\UniqueCornerBD\\UniqueCornerBD.csproj",
+      "projectPath": "E:\\Project\\Unique Corner\\UniqueCornerBD\\UniqueCornerBD\\UniqueCornerBD.csproj",
       "packagesPath": "C:\\Users\\md.mahabub alam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\md.mahabub alam\\OneDrive\\Desktop\\PROJECT FILE FIRST\\Backup Everything\\BACKUP 10122020\\uniquecorner\\UniqueCornerBD\\UniqueCornerBD\\obj\\",
+      "outputPath": "E:\\Project\\Unique Corner\\UniqueCornerBD\\UniqueCornerBD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

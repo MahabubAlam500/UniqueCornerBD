@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZGZcHY9+3Hweoqrk4n+CKykTw8tctRzk43z7ye6BOBC6hTTD//kX9pSH5Ed8Pc6PoEUw9Uyw5QKn1zsg5zXbKQ==",
+  "dgSpecHash": "6uuDcr3VDNLwc34RbkSVEXziLBmwVD8oJ8RHYmKW0If15v62XRzP8YSWUkW6ZH6F00ssXKT0TfckxwO9VNkpOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\md.mahabub alam\\OneDrive\\Desktop\\PROJECT FILE FIRST\\Backup Everything\\BACKUP 10122020\\uniquecorner\\UniqueCornerBD\\UniqueCornerBD\\UniqueCornerBD.csproj",
+  "projectFilePath": "E:\\Project\\Unique Corner\\UniqueCornerBD\\UniqueCornerBD\\UniqueCornerBD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\md.mahabub alam\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\md.mahabub alam\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
